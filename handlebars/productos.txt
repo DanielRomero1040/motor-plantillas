@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Escuadrita",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "1"
+  },
+  {
+    "title": "Escuadrita",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "2"
+  },
+  {
+    "title": "Escuadrita",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "3"
+  },
+  {
+    "title": "Globo Terráqueo",
+    "price": "345.67",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "4"
+  },
+  {
+    "title": "Escuadrita modificada con verbo put",
+    "price": "500",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "5"
+  },
+  {
+    "title": "Escuadrita",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "6"
+  },
+  {
+    "title": "Escuadrita",
+    "price": "123.45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "7"
+  },
+  {
+    "title": "Escuadrita modificada con verbo put",
+    "price": "500",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "9"
+  },
+  {
+    "title": "nueva escuadra",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "10"
+  },
+  {
+    "title": "producto1",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "11"
+  },
+  {
+    "title": "producto1",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "12"
+  },
+  {
+    "title": "producto1",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "13"
+  },
+  {
+    "title": "producto1",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "14"
+  },
+  {
+    "title": "producto1",
+    "price": "1200",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": "15"
+  },
+  {
+    "title": "nuevo producto",
+    "price": "1400",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "16"
+  },
+  {
+    "title": "nuevo producto",
+    "price": "1400",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": "17"
+  }
+]
