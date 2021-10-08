@@ -15,6 +15,7 @@ router.get('/', (req,res)=>{
     const productos = newContainer.getAll();
     productos.then((items)=>{
    
+        
     res.render("index", {items});
 })
 })

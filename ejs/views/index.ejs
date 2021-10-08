@@ -39,6 +39,7 @@
             <th scope="col">Foto</th>
           </tr>
         </thead>
+        <% if (items) { %>
         <tbody>
           <% items.forEach(function(element){ %>
           <tr>
@@ -52,6 +53,9 @@
           <% }); %>
         </tbody>
       </table>
+      <% } %> <% if (items.length==0) { %>
+      <h1 class="text-light p-5">No hay productos disponibles</h1>
+      <% } %>
     </div>
   </body>
 </html>

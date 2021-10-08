@@ -20,6 +20,7 @@
         <th scope="col">Foto</th>
       </tr>
     </thead>
+    {{#if arr}}
     <tbody>
       {{#each arr}}
         <tr>
@@ -30,7 +31,10 @@
         </tr>
       {{/each}}
     </tbody>
+    {{/if}}    
   </table>
-
-
+  {{#if arr}}
+  {{else}}
+    <h1 class="text-light p-5">No hay productos disponibles</h1>
+  {{/if}} 
 </div>
