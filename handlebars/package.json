@@ -4,7 +4,7 @@
     "express-handlebars": "^5.3.4",
     "nodemon": "^2.0.13"
   },
-  "name": "router-multer",
+  "name": "handlebars",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},

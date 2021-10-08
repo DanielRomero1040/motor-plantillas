@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/handlebars/node_modules
-/pug/node_modules
 
 # testing
 /coverage

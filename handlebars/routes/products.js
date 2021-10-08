@@ -14,17 +14,8 @@ const router =  new Router();
 router.get('/', (req,res)=>{
     const productos = newContainer.getAll();
     productos.then((items)=>{
-        let htmlText = ['<h1>Listado de productos</h1>'];
-
-    items.map(element => {
-        htmlText = [...htmlText,`<h2>${element.title}</h2>
-        <p>Tiene un costo de ${element.price} $</p>
-        <img src=${element.thumbnail} />
-        <p>El Id de tu producto es ${element.id}</p>
-        `]
-    })
    
-   res.render("products", {arr:items});
+    res.render("products", {arr:items});
 })
 })
 
@@ -71,7 +62,7 @@ router.post('/save', (req,res)=>{
         <p>El Id de tu producto es ${data.id}</p>
         `]
        
-        res.sendFile("index");
+        res.sendFile("files/index.html" , {root: "."});
      
         })
 })

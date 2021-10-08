@@ -14,8 +14,12 @@ const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
+
+//----------- Archivos estaticos para iniciar la aplicacione web-----------
 app.use(express.static('files'));
 
+
+//---------- Configuracion del engine de las plantillas -----
 app.engine(
     "hbs",
     handlebars({
